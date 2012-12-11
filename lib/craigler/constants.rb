@@ -196,7 +196,11 @@ module Craigler
     :kansascity => ['http://kansascity.craigslist.org/'],
     :lawrence => ['http://lawrence.craigslist.org/'],
     :ksu => ['http://ksu.craigslist.org/'],
+    :nwks => ['http://nwks.craigslist.org/'],
+    :salina => ['http://salina.craigslist.org/'],
     :topeka => ['http://topeka.craigslist.org/'],
+    :seks => ['http://seks.craigslist.org/'],
+    :swks => ['http://swks.craigslist.org/'],
     :wichita => ['http://wichita.craigslist.org/'],
     # Kentucky
     :bgky => ['http://bgky.craigslist.org/'],
